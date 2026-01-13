@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768294458/e34ce6d1-1dfb-4c6c-a995-c3e7439dc150/index.m3u8
-#EXTINF:-1,Super Smash, 2025-26Match 18Central StagsNorthern DistrictsNorthern Districts beat Central Stags by 6 wickets (DLS method)HIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768294458/e34ce6d1-1dfb-4c6c-a995-c3e7439dc150/index.m3u8
 #EXTINF:-1,HIGHLIGHTS16:00Northern Districts beat Central Stags by 6 wickets on DLS | Match 18
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768294458/e34ce6d1-1dfb-4c6c-a995-c3e7439dc150/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:18Katene D Clarke's 60* off 37 | Match 18
