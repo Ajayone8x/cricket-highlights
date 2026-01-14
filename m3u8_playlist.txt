@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357996/aee1d455-ea05-4926-9cae-97f0356de4dd/index.m3u8
+#EXTINF:-1,Super Smash, 2025-26Match 19Auckland AcesCanterburyAuckland Aces beat Canterbury by 9 wicketsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357996/aee1d455-ea05-4926-9cae-97f0356de4dd/index.m3u8
+#EXTINF:-1,HIGHLIGHTS12:37Auckland Aces beat Canterbury by 9 wickets | Match 19
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357996/aee1d455-ea05-4926-9cae-97f0356de4dd/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:00Dale Phillips's 55 of 32 | Match 19
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357951/3aa7a626-095f-46ac-a1a7-896d7ef9c7ae/index.m3u8
 #EXTINF:-1,HIGHLIGHTS16:00Northern Districts beat Central Stags by 6 wickets on DLS | Match 18
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768294458/e34ce6d1-1dfb-4c6c-a995-c3e7439dc150/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:18Katene D Clarke's 60* off 37 | Match 18
@@ -15,7 +23,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207322/ae
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207314/f3553dfb-23f0-4d25-96bb-06820217a29b/index.m3u8
 #EXTINF:-1,TOP MOMENT00:31BRILLIANT! Bevon Jacobs pulls off a great catch in Dunedin
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207304/01a66676-66ac-453a-a284-9fda15f1c5bc/index.m3u8
-#EXTINF:-1,HIGHLIGHTSAuckland Aces beat Otago Volts by 5 wickets | Match 17
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768202699/fa944ac8-6f2d-46df-a756-f29bdf473d91/index.m3u8
-#EXTINF:-1,TOP KNOCKS03:39Bevon Jacobs's 78* off 51 | Match 17
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768202412/df5d7e12-fbc1-4993-b4e3-aba5ff60ca47/index.m3u8
