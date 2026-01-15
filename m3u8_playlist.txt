@@ -2,20 +2,20 @@
 #EXTINF:-1,HIGHLIGHTS12:37Auckland Aces beat Canterbury by 9 wickets | Match 19
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357996/aee1d455-ea05-4926-9cae-97f0356de4dd/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:00Dale Phillips's 55 of 32 | Match 19
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357951/3aa7a626-095f-46ac-a1a7-896d7ef9c7ae/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139673_english_hls_fda589400168334_1ta-di_h264_backup/vod_124_index.m3u8
 #EXTINF:-1,HIGHLIGHTS16:00Northern Districts beat Central Stags by 6 wickets on DLS | Match 18
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768294458/e34ce6d1-1dfb-4c6c-a995-c3e7439dc150/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139673_english_hls_fda589400168334_1ta-di_h264_backup/vod_124_index.m3u8
 #EXTINF:-1,TOP KNOCKS02:18Katene D Clarke's 60* off 37 | Match 18
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768294390/27425e3c-1e4c-476c-b9af-5206bbdd5d29/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139673_english_hls_fda589400168334_1ta-di_h264_backup/vod_124_index.m3u8
 #EXTINF:-1,TOP SPELLS01:12Matthew Fisher's 3 for 19 | Match 18
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768287591/b0480ff6-8689-4070-bcea-c898249eb833/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139673_english_hls_fda589400168334_1ta-di_h264_backup/vod_124_index.m3u8
 #EXTINF:-1,TOP MOMENT00:40BLISTERING! Bevon Jacobs finishes off in style
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207343/f79c9f51-3620-4efa-bbe7-0e709d6a902d/index.m3u8
 #EXTINF:-1,TOP MOMENT00:294W! Troy Johnson gets his sweet revenge over Mark Chapman
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207332/ad21b164-c6ee-4a29-91ad-d2ea771762fd/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139673_english_hls_fda589400168334_1ta-di_h264_backup/vod_124_index.m3u8
 #EXTINF:-1,TOP MOMENT00:26CLOBBERED! Jacobs smashes Gibson for back-to-back sixes
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207322/aed96c43-6b25-4ac5-89d9-090a9423fc0f/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139673_english_hls_fda589400168334_1ta-di_h264_backup/vod_124_index.m3u8
 #EXTINF:-1,TOP MOMENT00:27DOUBLE STRIKE! Siddhesh Dixit bamboozles Volts' batters
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207314/f3553dfb-23f0-4d25-96bb-06820217a29b/index.m3u8
 #EXTINF:-1,TOP MOMENT00:31BRILLIANT! Bevon Jacobs pulls off a great catch in Dunedin
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768207304/01a66676-66ac-453a-a284-9fda15f1c5bc/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139673_english_hls_fda589400168334_1ta-di_h264_backup/vod_124_index.m3u8
