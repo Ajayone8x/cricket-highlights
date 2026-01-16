@@ -4,7 +4,7 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768475499/62
 #EXTINF:-1,TOP MOMENT00:48TWIN BLOWS! McLachlan, van Beek depart in consecutive deliveries
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768475490/7180980d-c937-4bb2-9c61-482f371257a9/index.m3u8
 #EXTINF:-1,TOP MOMENT00:26CLOBBERED! Tashkoff slams Cumming for back-to-back sixes
-https://in-mc-vod.fancode.com/delhi/139676_english_hls_f5b8c344d890157_1ta-di_h264_backup/vod_405_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768475480/9ce935a9-14f0-4849-8036-dca842f35fc1/index.m3u8
 #EXTINF:-1,HIGHLIGHTS13:09Otago Volts beat Wellington Firebirds by 5 wickets | Match 20
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768461398/d2b38374-3839-4744-a405-d47b769448dd/index.m3u8
 #EXTINF:-1,TOP SPELLS01:16James Hartshorn's 3 for 17 | Match 20
@@ -12,7 +12,7 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768461337/ca
 #EXTINF:-1,HIGHLIGHTS12:37Auckland Aces beat Canterbury by 9 wickets | Match 19
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357996/aee1d455-ea05-4926-9cae-97f0356de4dd/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:00Dale Phillips's 55 of 32 | Match 19
-https://in-mc-vod.fancode.com/delhi/139676_english_hls_f5b8c344d890157_1ta-di_h264_backup/vod_405_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768357951/3aa7a626-095f-46ac-a1a7-896d7ef9c7ae/index.m3u8
 #EXTINF:-1,HIGHLIGHTS16:00Northern Districts beat Central Stags by 6 wickets on DLS | Match 18
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768294458/e34ce6d1-1dfb-4c6c-a995-c3e7439dc150/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:18Katene D Clarke's 60* off 37 | Match 18
