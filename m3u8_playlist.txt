@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768583296/410afc89-3b6f-4a95-9b10-a5c0ee3287a3_1768583276187/index.m3u8
-#EXTINF:-1,Bangladesh Premier League, 2025-26Match 20Rajshahi WarriorsSylhet TitansRajshahi Warriors beat Sylhet Titans by 5 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768583296/410afc89-3b6f-4a95-9b10-a5c0ee3287a3_1768583276187/index.m3u8
 #EXTINF:-1,HIGHLIGHTS12:34Central Stags beat Auckland Aces by 10 runs | Match 21
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768553064/c6191f92-98b4-4c4c-a536-c75c0af6677e/index.m3u8
 #EXTINF:-1,TOP MOMENT01:01WOWZA! Joey Field plucks a jaw-dropping catch at McLean Park
