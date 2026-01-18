@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/delhi/131025_english_hls_b3cac9d5af64795_1ta-di_h264_backup/vod_443_index.m3u8
-#EXTINF:-1,Bangladesh Premier League, 2025-26Match 14Chattogram RoyalsRajshahi WarriorsRajshahi Warriors beat Chattogram Royals by 3 wicketsHIGHLIGHTS
-https://in-mc-vod.fancode.com/delhi/131025_english_hls_b3cac9d5af64795_1ta-di_h264_backup/vod_443_index.m3u8
 #EXTINF:-1,HIGHLIGHTS12:34Central Stags beat Auckland Aces by 10 runs | Match 21
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768553064/c6191f92-98b4-4c4c-a536-c75c0af6677e/index.m3u8
 #EXTINF:-1,TOP MOMENT01:01WOWZA! Joey Field plucks a jaw-dropping catch at McLean Park
@@ -12,14 +8,14 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768552758/d9
 #EXTINF:-1,TOP KNOCKS01:29Dean Foxcroft's 56 off 41 | Match 21
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768545116/42a0bf14-4beb-4c63-a463-4fec6b605d4c/index.m3u8
 #EXTINF:-1,TOP SPELLS01:03Siddhesh Dixit's 3 for 20 | Match 21
-https://in-mc-vod.fancode.com/delhi/131025_english_hls_b3cac9d5af64795_1ta-di_h264_backup/vod_443_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768545105/64a0473d-5072-480d-a850-a42dd569a553/index.m3u8
 #EXTINF:-1,TOP MOMENT00:32SPECTACULAR! Jake Gibson gets the job done for Otago Volts
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768475499/62e7e555-620c-464e-80c3-b6195837b63d/index.m3u8
 #EXTINF:-1,TOP MOMENT00:48TWIN BLOWS! McLachlan, van Beek depart in consecutive deliveries
-https://in-mc-vod.fancode.com/delhi/131025_english_hls_b3cac9d5af64795_1ta-di_h264_backup/vod_443_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768475490/7180980d-c937-4bb2-9c61-482f371257a9/index.m3u8
 #EXTINF:-1,TOP MOMENT00:26CLOBBERED! Tashkoff slams Cumming for back-to-back sixes
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768475480/9ce935a9-14f0-4849-8036-dca842f35fc1/index.m3u8
 #EXTINF:-1,HIGHLIGHTS13:09Otago Volts beat Wellington Firebirds by 5 wickets | Match 20
-https://in-mc-vod.fancode.com/delhi/131025_english_hls_b3cac9d5af64795_1ta-di_h264_backup/vod_443_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768461398/d2b38374-3839-4744-a405-d47b769448dd/index.m3u8
 #EXTINF:-1,TOP SPELLS01:16James Hartshorn's 3 for 17 | Match 20
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768461337/cad45579-c688-4809-aa17-c6c448962659/index.m3u8
