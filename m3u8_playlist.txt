@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768753393/d197076d-f398-4fa6-a853-c0a1075128a7/index.m3u8
+#EXTINF:-1,Bangladesh Premier League, 2025-26Match 22Chattogram RoyalsDhaka CapitalsDhaka Capitals beat Chattogram Royals by 42 runsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768753393/d197076d-f398-4fa6-a853-c0a1075128a7/index.m3u8
+#EXTINF:-1,TOP MOMENT00:30EXQUISITE! Watkin clears the ropes to notch up her fifty
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731268/2d427f51-e57c-43fd-a1f5-87a88a4ed99d/index.m3u8
+#EXTINF:-1,TOP MOMENT00:27Hands Like Glue! Zak Gibson takes a screamer
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729944/81303388-2a4f-4610-95f2-2aa28937b114/index.m3u8
+#EXTINF:-1,TOP MOMENT00:30CRIKEY! Matthew Fisher snatches a jaw-dropping caught & bowled
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729935/c8aeffec-5428-48e2-ad65-a406977bc2b6/index.m3u8
+#EXTINF:-1,TOP MOMENT00:32Lightning Reflex! Jake Gibson leaps in to take a sharp catch
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729917/1cabd9f3-d1f0-45c8-8992-ca79e8e03b97/index.m3u8
 #EXTINF:-1,TOP MOMENT00:24BRILLIANT! That moment when a fan steals the show
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729907/6ccea975-734e-4a7b-a39b-e5184ec2acb2/index.m3u8
 #EXTINF:-1,TOP MOMENTICONIC! Katene Clarke brings up his first ton of the season
@@ -11,11 +23,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768722497/d0
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768722492/251d6768-a603-48ee-b8f3-28e7ceeb80bd/index.m3u8
 #EXTINF:-1,TOP KNOCKS03:51Katene Clarke's 100* off 54 | Match 22
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768713734/44db4178-47b1-451e-b015-7337087ebbae/index.m3u8
-#EXTINF:-1,TOP KNOCKS01:49Brett Hampton's 53 off 32 | Match 22
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768713518/b3507b59-b820-432b-a429-c5fd37edbdb0/index.m3u8
-#EXTINF:-1,HIGHLIGHTS12:34Central Stags beat Auckland Aces by 10 runs | Match 21
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768553064/c6191f92-98b4-4c4c-a536-c75c0af6677e/index.m3u8
-#EXTINF:-1,TOP MOMENT01:01WOWZA! Joey Field plucks a jaw-dropping catch at McLean Park
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768552763/58f723fe-f3ab-4073-8376-4eb02821a9d3/index.m3u8
-#EXTINF:-1,TOP MOMENT00:37BULLSEYE! Ajaz Patel pulls off brilliant run out off own bowling
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768552758/d95e52c1-2f0a-4f5e-9e31-25b8327c1bc5/index.m3u8
