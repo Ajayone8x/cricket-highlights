@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768753393/d197076d-f398-4fa6-a853-c0a1075128a7/index.m3u8
-#EXTINF:-1,Bangladesh Premier League, 2025-26Match 22Chattogram RoyalsDhaka CapitalsDhaka Capitals beat Chattogram Royals by 42 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768753393/d197076d-f398-4fa6-a853-c0a1075128a7/index.m3u8
 #EXTINF:-1,TOP MOMENT00:30EXQUISITE! Watkin clears the ropes to notch up her fifty
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731268/2d427f51-e57c-43fd-a1f5-87a88a4ed99d/index.m3u8
 #EXTINF:-1,TOP MOMENT00:27Hands Like Glue! Zak Gibson takes a screamer
@@ -16,7 +12,7 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729907/6c
 #EXTINF:-1,TOP MOMENTICONIC! Katene Clarke brings up his first ton of the season
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729892/ec6fd9ea-de82-4688-96cd-c37dee0d32ff/index.m3u8
 #EXTINF:-1,HIGHLIGHTS20:47Northern Districts beat Otago Volts by 31 runs | Match 22
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768722601/0f558cec-0a24-4e8a-8bc9-4d29cb8bc12d/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131024_english_hls_98c21b63753198_1ta-di_h264_backup/vod_215_index.m3u8
 #EXTINF:-1,TOP SPELLS01:23Zak Gibson's 3 for 35 | Match 22
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768722497/d065359d-98c9-44bc-9bd7-6aaeae11f78d/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:28Troy Johnson's 66 off 34 | Match 22
