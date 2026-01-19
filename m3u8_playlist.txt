@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1,HIGHLIGHTS14:41Wellington Firebirds beat Canterbury by 88 runs | Match 23
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768805472/49263d90-051d-4409-a72e-79aee17dd845/index.m3u8
-#EXTINF:-1,TOP SPELLS01:14Logan van Beek's 3 for 14 | Match 23
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768804870/372f8374-feb9-48f0-9895-387a3f585127/index.m3u8
-#EXTINF:-1,TOP KNOCKS01:41Samuel Morgan's 55 off 33 | Match 23
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768798133/5c1c4867-bbc9-4265-878a-eec5f89782ce/index.m3u8
-#EXTINF:-1,TOP MOMENT00:30EXQUISITE! Watkin clears the ropes to notch up her fifty
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731268/2d427f51-e57c-43fd-a1f5-87a88a4ed99d/index.m3u8
-#EXTINF:-1,TOP MOMENT00:27Hands Like Glue! Zak Gibson takes a screamer
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729944/81303388-2a4f-4610-95f2-2aa28937b114/index.m3u8
-#EXTINF:-1,TOP MOMENT00:30CRIKEY! Matthew Fisher snatches a jaw-dropping caught & bowled
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729935/c8aeffec-5428-48e2-ad65-a406977bc2b6/index.m3u8
-#EXTINF:-1,TOP MOMENT00:32Lightning Reflex! Jake Gibson leaps in to take a sharp catch
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729917/1cabd9f3-d1f0-45c8-8992-ca79e8e03b97/index.m3u8
-#EXTINF:-1,TOP MOMENT00:24BRILLIANT! That moment when a fan steals the show
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729907/6ccea975-734e-4a7b-a39b-e5184ec2acb2/index.m3u8
-#EXTINF:-1,TOP MOMENTICONIC! Katene Clarke brings up his first ton of the season
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768729892/ec6fd9ea-de82-4688-96cd-c37dee0d32ff/index.m3u8
-#EXTINF:-1,HIGHLIGHTS20:47Northern Districts beat Otago Volts by 31 runs | Match 22
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768722601/0f558cec-0a24-4e8a-8bc9-4d29cb8bc12d/index.m3u8
+#EXTINF:-1,TOP MOMENT01:32CARNAGE! Canterbury crumbles under Kerrâs furious spell
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832487/eadf7e8c-e5ab-417c-8d96-e36b9b400e60/index.m3u8
+#EXTINF:-1,TOP MOMENT00:26UNPLAYABLE! Jess Kerr's yorker wrecks the stumps
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832475/98d73515-c7a2-4492-8ad2-6d418a8fc9e6/index.m3u8
+#EXTINF:-1,TOP MOMENT00:50Helmet Assist! Abigale Gerken pulls off a wild catch
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832467/cf5a97d7-ae88-432c-9eaf-de198a4dc6a5/index.m3u8
+#EXTINF:-1,TOP MOMENT00:26Dream Debut! Stella Cornelius castles Burns on her first ball
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832456/99f95497-76b0-47e1-825f-4018fff764f2/index.m3u8
+#EXTINF:-1,TOP SPELLS02:12Jess Kerr's 4 for 18 | Match 23
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768792141/f6d856e2-4055-459a-962c-aefb3609b901/index.m3u8
+#EXTINF:-1,HIGHLIGHTS14:53Wellington Blaze beat Canterbury Magicians by 30 runs | Match 23
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768791545/6f9e9637-0f74-4071-a35e-716819d4a843/index.m3u8
+#EXTINF:-1,TOP MOMENT00:31Caitlin Gurrey raises the bat with a crunching four
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731278/9da12462-8f6a-4df8-99e7-05a774200fbf/index.m3u8
+#EXTINF:-1,TOP MOMENT00:27WOW! Laura Harris dives forward to pluck a screamer
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731259/a072857c-f10b-44f1-8beb-b909aaa1a329/index.m3u8
+#EXTINF:-1,TOP MOMENT01:00646W! Nensi Patel wins a fierce battle against Polly Inglis
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731247/6ec66b30-19c8-42c1-a5bb-068562c80740/index.m3u8
+#EXTINF:-1,TOP MOMENT01:08Pure Keeper Craft! Holly Topp pulls off a skillful run-out
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731237/276a9c2b-8d02-44c7-8855-a8251b1a4072/index.m3u8
