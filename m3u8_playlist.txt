@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768925477/3087cf37-509f-4be9-bf06-cc39d9770fa4/index.m3u8
-#EXTINF:-1,Bangladesh Premier League, 2025-26Qualifier 1Rajshahi WarriorsChattogram RoyalsChattogram Royals beat Rajshahi Warriors by 6 wicketsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768925477/3087cf37-509f-4be9-bf06-cc39d9770fa4/index.m3u8
 #EXTINF:-1,TOP MOMENT01:32CARNAGE! Canterbury crumbles under Kerrâs furious spell
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832487/eadf7e8c-e5ab-417c-8d96-e36b9b400e60/index.m3u8
 #EXTINF:-1,TOP MOMENT00:26UNPLAYABLE! Jess Kerr's yorker wrecks the stumps
