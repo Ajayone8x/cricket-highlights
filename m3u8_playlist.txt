@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,HIGHLIGHTS12:15Canterbury Magicians beat Otago Sparks by 9 wickets | Match 25
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968557/b4a27ce5-b620-42f8-a35e-1bb9d8af3c37/index.m3u8
+#EXTINF:-1,TOP KNOCKS01:39Naomi Stalenberg's 51 off 41 | Match 25
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968499/52cd27f2-723f-4c86-a313-32e65dbe0d03/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:12Kate Anderson's 66* off 49 | Match 25
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968492/8b525915-d60a-4293-8cc2-cb9008aae5de/index.m3u8
+#EXTINF:-1,TOP SPELLS01:15Melissa Banks's 3 for 32 | Match 25
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968482/7c158555-25c5-45a4-a605-fe9cf48ccbe8/index.m3u8
 #EXTINF:-1,TOP MOMENT01:32CARNAGE! Canterbury crumbles under Kerrâs furious spell
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832487/eadf7e8c-e5ab-417c-8d96-e36b9b400e60/index.m3u8
 #EXTINF:-1,TOP MOMENT00:26UNPLAYABLE! Jess Kerr's yorker wrecks the stumps
@@ -11,11 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832456/99
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768792141/f6d856e2-4055-459a-962c-aefb3609b901/index.m3u8
 #EXTINF:-1,HIGHLIGHTS14:53Wellington Blaze beat Canterbury Magicians by 30 runs | Match 23
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768791545/6f9e9637-0f74-4071-a35e-716819d4a843/index.m3u8
-#EXTINF:-1,TOP MOMENT00:31Caitlin Gurrey raises the bat with a crunching four
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731278/9da12462-8f6a-4df8-99e7-05a774200fbf/index.m3u8
-#EXTINF:-1,TOP MOMENT00:27WOW! Laura Harris dives forward to pluck a screamer
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731259/a072857c-f10b-44f1-8beb-b909aaa1a329/index.m3u8
-#EXTINF:-1,TOP MOMENT01:00646W! Nensi Patel wins a fierce battle against Polly Inglis
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731247/6ec66b30-19c8-42c1-a5bb-068562c80740/index.m3u8
-#EXTINF:-1,TOP MOMENT01:08Pure Keeper Craft! Holly Topp pulls off a skillful run-out
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768731237/276a9c2b-8d02-44c7-8855-a8251b1a4072/index.m3u8
