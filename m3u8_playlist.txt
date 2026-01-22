@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,HIGHLIGHTS12:49Auckland Hearts beat Northern Brave Women by 1 wicket | Match 26
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769051424/2d815367-dd80-4461-9548-cf00af7eedd2/index.m3u8
+#EXTINF:-1,TOP KNOCKS01:39Isabella Gaze's 51 off 44 | Match 26
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769051373/b0a737aa-c7cd-45df-a08b-22758f0e67db/index.m3u8
+#EXTINF:-1,TOP SPELLS01:16Molly Penfold's 3 for 22 | Match 26
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769051361/1c2ff77a-93c3-4173-8e28-60e229839ffb/index.m3u8
+#EXTINF:-1,TOP SPELLS01:14Bella Armstrong's 3 for 19 | Match 26
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769051354/427f9794-2c19-48b2-ab40-5b1cf922af86/index.m3u8
 #EXTINF:-1,TOP MOMENT00:46444! Izzy Sharp finishes off in style for the Magicians
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768983664/42b96bfd-f8b3-4811-9f99-3d885694ace9/index.m3u8
 #EXTINF:-1,TOP MOMENT00:32BLISTERING! Naomi Stalenberg notches up a sparkling fifty
@@ -11,11 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768983636/40
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768983631/9fdbeec9-ba6c-427f-8eeb-fc17d3dd9317/index.m3u8
 #EXTINF:-1,HIGHLIGHTS12:15Canterbury Magicians beat Otago Sparks by 9 wickets | Match 25
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968557/b4a27ce5-b620-42f8-a35e-1bb9d8af3c37/index.m3u8
-#EXTINF:-1,TOP KNOCKS01:39Naomi Stalenberg's 51 off 41 | Match 25
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968499/52cd27f2-723f-4c86-a313-32e65dbe0d03/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:12Kate Anderson's 66* off 49 | Match 25
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968492/8b525915-d60a-4293-8cc2-cb9008aae5de/index.m3u8
-#EXTINF:-1,TOP SPELLS01:15Melissa Banks's 3 for 32 | Match 25
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768968482/7c158555-25c5-45a4-a605-fe9cf48ccbe8/index.m3u8
-#EXTINF:-1,TOP MOMENT01:32CARNAGE! Canterbury crumbles under Kerrâs furious spell
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1768832487/eadf7e8c-e5ab-417c-8d96-e36b9b400e60/index.m3u8
