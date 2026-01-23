@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769158394/7614ed95-f450-4ef3-b92f-6a4cf30006ee/index.m3u8
-#EXTINF:-1,Super Smash, 2025-26Match 27CanterburyWellington FirebirdsWF beat CTB by 13 runs (DLS method)HIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769158394/7614ed95-f450-4ef3-b92f-6a4cf30006ee/index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769189174/1a54f441-ec96-4e8a-893c-9562858bad4b/index.m3u8
+#EXTINF:-1,Bangladesh Premier League, 2025-26FinalChattogram RoyalsRajshahi WarriorsRajshahi Warriors beat Chattogram Royals by 63 runsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769189174/1a54f441-ec96-4e8a-893c-9562858bad4b/index.m3u8
 #EXTINF:-1,TOP MOMENT00:27WHAT A CATCH! Dhananjaya de Silva takes a blinder
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769107536/16aacdaa-2c71-4e90-b9af-f4a0784de34c/index.m3u8
 #EXTINF:-1,TOP MOMENT01:07SAFE HANDS! Dunith Wellalage holds his nerve at the rope
