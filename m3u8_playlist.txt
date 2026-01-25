@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769272089/c35eca1d-bde0-46e4-bc05-8181fd4d9919/index.m3u8
-#EXTINF:-1,England tour of Sri Lanka, 20262nd ODISri LankaEnglandEngland beat Sri Lanka by 5 wicketsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769272089/c35eca1d-bde0-46e4-bc05-8181fd4d9919/index.m3u8
 #EXTINF:-1,HIGHLIGHTS13:30England beat Sri Lanka by 5 wickets | 2nd ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769272089/c35eca1d-bde0-46e4-bc05-8181fd4d9919/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:31Joe Root's 75 off 90 | 2nd ODI
