@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769412715/f5299487-4eed-400e-a067-0713d3d7e619/index.m3u8
-#EXTINF:-1,Super Smash, 2025-26Match 30Auckland AcesCentral StagsAuckland Aces beat Central Stags by 8 runs (DLS method)HIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769412715/f5299487-4eed-400e-a067-0713d3d7e619/index.m3u8
 #EXTINF:-1,HIGHLIGHTS13:30England beat Sri Lanka by 5 wickets | 2nd ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769272089/c35eca1d-bde0-46e4-bc05-8181fd4d9919/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:31Joe Root's 75 off 90 | 2nd ODI
