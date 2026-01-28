@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769534719/99d8a749-79d3-4cd2-9ba3-7903213cbc7e/index.m3u8
-#EXTINF:-1,England tour of Sri Lanka, 20263rd ODISri LankaEnglandEngland beat Sri Lanka by 53 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769534719/99d8a749-79d3-4cd2-9ba3-7903213cbc7e/index.m3u8
 #EXTINF:-1,HIGHLIGHTS33:45England beat Sri Lanka by 53 runs | 3rd ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769534719/99d8a749-79d3-4cd2-9ba3-7903213cbc7e/index.m3u8
 #EXTINF:-1,TOP MOMENT00:52RAMPAGE! Sam Curran's perfect yorker seals it in style
