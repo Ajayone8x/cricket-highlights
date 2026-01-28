@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1,TOP MOMENT00:42666! Ross Taylor turns up the heat in Goa
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769598596/5826608f-b371-4767-97d9-7104858e32bb/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:14Samit Patel's 65* off 32 | Match 4
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769598132/1a1c66f4-9cb3-4cb3-a0ff-2f3014cdb753/index.m3u8
-#EXTINF:-1,HIGHLIGHTS22:43Maharashtra Tycoons beat Rajasthan Lions by 8 runs | Match 3
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769542272/1aa17d3c-f919-42d9-a184-dfca0af1079e/index.m3u8
-#EXTINF:-1,TOP SPELLS01:16Bipul Sharma's 3 for 45 | Match 3
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769541095/0011f7c5-ba1f-4d32-8c3b-7cf62ba6a0c3/index.m3u8
-#EXTINF:-1,TOP SPELLS01:09Carlos Brathwaite's 3 for 30 | Match 3
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769541084/f0ecd85e-3b1b-4adc-9125-55e4460fc593/index.m3u8
-#EXTINF:-1,TOP KNOCKS03:10Martin Guptill's 68 off 28 | Match 2
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769526345/d73c8b8e-c56f-4e60-ba76-f80c153342f3/index.m3u8
-#EXTINF:-1,HIGHLIGHTS16:00Pune Panthers beat Gurugram Thunders by 4 wickets | Match 2
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769526316/a4f37aad-ff21-4523-9f98-5d1412d6c408/index.m3u8
-#EXTINF:-1,TOP MOMENT00:30TERRIFIC TON! Chadwick Walton goes big
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769452494/1ee2b4a6-d4ff-42f6-a468-6cc5ae91856d/index.m3u8
-#EXTINF:-1,HIGHLIGHTS16:40Delhi Warriors beat Dubai Royals by 9 wickets | Match 1
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769450959/0c5126d3-ea9d-4153-8bb6-7a334aa2fe09/index.m3u8
-#EXTINF:-1,TOP KNOCKS01:44Shreevats Goswami's 56 off 33 | Match 1
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769450345/4bfa908f-d9e9-4778-823c-f456f4988728/index.m3u8
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
+#EXTINF:-1,World Legends Pro T20 League, 2026Match 4Dubai RoyalsGurugram ThundersDubai Royals beat Gurugram Thunders by 3 runsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
+#EXTINF:-1,TOP KNOCKS01:33Irfan Pathan's 49* off 26 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616439/548dcdc1-a8af-412a-be41-3547241aa5fc/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:16Shreevats Goswami's 51 off 33 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616294/123efc84-5d29-405d-8531-ac29a7edfdcc/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:57Chadwick Walton's 62 off 32 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616287/29a9877b-49ad-47bd-854d-8b2b7b431a66/index.m3u8
+#EXTINF:-1,TOP MOMENT00:34Pure Bravado! Peter Trego takes a swashbuckling catch
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608707/9de653ad-6930-4c83-b6b7-0aaff59051f6/index.m3u8
+#EXTINF:-1,TOP MOMENT00:32HEARTBREAK! Pujara misses out on his ton by a whisker
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608699/96e4e7c7-9cda-412a-85d3-982fb4aa7bf5/index.m3u8
+#EXTINF:-1,TOP MOMENT00:594644! Samit Patel dismantled Rayad Emrit
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608692/a4adfe2c-6a6a-47c8-865f-9ed0bb733e10/index.m3u8
+#EXTINF:-1,TOP MOMENT00:33CRACKING CATCH! De Grandhomme left Rayudu dazed
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608683/5ef05ffd-d4d0-439f-8bb6-b5e162f36f6f/index.m3u8
+#EXTINF:-1,HIGHLIGHTS18:35Dubai Royals beat Gurugram Thunders by 3 runs | Match 4
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:24Thisara Perera's 56* off 27 | Match 4
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605307/defc6023-c3d8-4424-8e0c-b0dc0c155a8b/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:40Cheteshwar Pujara's 99 off 60 | Match 4
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605293/b5f5bece-b5ca-435e-9799-54ce597a5ca3/index.m3u8
