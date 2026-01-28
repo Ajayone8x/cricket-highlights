@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1,HIGHLIGHTS33:45England beat Sri Lanka by 53 runs | 3rd ODI
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769534719/99d8a749-79d3-4cd2-9ba3-7903213cbc7e/index.m3u8
-#EXTINF:-1,TOP MOMENT00:52RAMPAGE! Sam Curran's perfect yorker seals it in style
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769533390/182656de-85ac-41ad-bd43-be56b6d51822/index.m3u8
-#EXTINF:-1,TOP KNOCKS03:39Pavan Rathnayake's 121 off 115 | 3rd ODI
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769532177/ab0c6d49-e54d-4ba1-8b24-ae88def61d62/index.m3u8
-#EXTINF:-1,TOP MOMENT00:32Safe Hands! Ben Duckett nailed an excellent catch
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769531017/2cc69d63-09a1-45b7-b36b-73ad74194d00/index.m3u8
-#EXTINF:-1,TOP MOMENT00:34PURE CHAOS! Miscommunication ends in an unlucky run-out
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769530444/4bd9ae44-c214-4244-8d42-b869dfb62eee/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:09Pathum Nissanka's 50 off 25 | 3rd ODI
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769529840/da9a96dc-a93e-4578-8056-b625690f3f1b/index.m3u8
-#EXTINF:-1,TOP MOMENT02:05DOMINANCE! Brook's Colombo carnage
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769521189/9ade28c5-2f36-45de-ba58-9be4c3a32059/index.m3u8
-#EXTINF:-1,TOP MOMENT01:499 FOURS! Joe Root ups the ante in Colombo
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769520987/ad3e6479-bdd2-4bed-9669-1e832b85a80e/index.m3u8
-#EXTINF:-1,TOP KNOCKS06:13Harry Brook's 136* off 66 | 3rd ODI
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769519840/d98945cd-13a7-4b5d-b80f-ee0b7ae32ce6/index.m3u8
-#EXTINF:-1,TOP KNOCKS03:37Joe Root's 111* off 108 | 3rd ODI
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769519823/cd66cb01-8683-4496-9408-a21a3eca8388/index.m3u8
+#EXTINF:-1,TOP MOMENT00:42666! Ross Taylor turns up the heat in Goa
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769598596/5826608f-b371-4767-97d9-7104858e32bb/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:14Samit Patel's 65* off 32 | Match 4
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769598132/1a1c66f4-9cb3-4cb3-a0ff-2f3014cdb753/index.m3u8
+#EXTINF:-1,HIGHLIGHTS22:43Maharashtra Tycoons beat Rajasthan Lions by 8 runs | Match 3
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769542272/1aa17d3c-f919-42d9-a184-dfca0af1079e/index.m3u8
+#EXTINF:-1,TOP SPELLS01:16Bipul Sharma's 3 for 45 | Match 3
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769541095/0011f7c5-ba1f-4d32-8c3b-7cf62ba6a0c3/index.m3u8
+#EXTINF:-1,TOP SPELLS01:09Carlos Brathwaite's 3 for 30 | Match 3
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769541084/f0ecd85e-3b1b-4adc-9125-55e4460fc593/index.m3u8
+#EXTINF:-1,TOP KNOCKS03:10Martin Guptill's 68 off 28 | Match 2
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769526345/d73c8b8e-c56f-4e60-ba76-f80c153342f3/index.m3u8
+#EXTINF:-1,HIGHLIGHTS16:00Pune Panthers beat Gurugram Thunders by 4 wickets | Match 2
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769526316/a4f37aad-ff21-4523-9f98-5d1412d6c408/index.m3u8
+#EXTINF:-1,TOP MOMENT00:30TERRIFIC TON! Chadwick Walton goes big
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769452494/1ee2b4a6-d4ff-42f6-a468-6cc5ae91856d/index.m3u8
+#EXTINF:-1,HIGHLIGHTS16:40Delhi Warriors beat Dubai Royals by 9 wickets | Match 1
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769450959/0c5126d3-ea9d-4153-8bb6-7a334aa2fe09/index.m3u8
+#EXTINF:-1,TOP KNOCKS01:44Shreevats Goswami's 56 off 33 | Match 1
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769450345/4bfa908f-d9e9-4778-823c-f456f4988728/index.m3u8
