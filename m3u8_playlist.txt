@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
-#EXTINF:-1,World Legends Pro T20 League, 2026Match 4Dubai RoyalsGurugram ThundersDubai Royals beat Gurugram Thunders by 3 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
 #EXTINF:-1,HIGHLIGHTSDelhi Warriors beat Pune Panthers by 59 runs | Match 5
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624559/dc3e8a00-7f9b-4233-9015-0f2549cdb648/index.m3u8
-#EXTINF:-1,TOP SPELLS01:27Isuru Udana's 3 for 22 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624476/f145e37a-1717-4616-9996-44bd516219f4/index.m3u8
 #EXTINF:-1,TOP SPELLS01:25Shahbaz Nadeem's 3 for 25 | Match 5
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624460/ffb46982-7d54-4465-91de-7c7df7d8f99d/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:29Samiullah Shinwari's 52 off 28 | Match 5
