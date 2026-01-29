@@ -3,6 +3,16 @@
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
 #EXTINF:-1,World Legends Pro T20 League, 2026Match 4Dubai RoyalsGurugram ThundersDubai Royals beat Gurugram Thunders by 3 runsHIGHLIGHTS
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
+#EXTINF:-1,HIGHLIGHTSDelhi Warriors beat Pune Panthers by 59 runs | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624559/dc3e8a00-7f9b-4233-9015-0f2549cdb648/index.m3u8
+#EXTINF:-1,TOP SPELLS01:27Isuru Udana's 3 for 22 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624476/f145e37a-1717-4616-9996-44bd516219f4/index.m3u8
+#EXTINF:-1,TOP SPELLS01:25Shahbaz Nadeem's 3 for 25 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624460/ffb46982-7d54-4465-91de-7c7df7d8f99d/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:29Samiullah Shinwari's 52 off 28 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624444/c11acdd8-3b2a-487e-85d2-37b811d13104/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:55Upul Tharanga's 50 off 31 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624430/8b8db5bc-caa9-431d-97da-22e41d69a5c9/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:33Irfan Pathan's 49* off 26 | Match 5
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616439/548dcdc1-a8af-412a-be41-3547241aa5fc/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:16Shreevats Goswami's 51 off 33 | Match 5
@@ -13,13 +23,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616287/29
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608707/9de653ad-6930-4c83-b6b7-0aaff59051f6/index.m3u8
 #EXTINF:-1,TOP MOMENT00:32HEARTBREAK! Pujara misses out on his ton by a whisker
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608699/96e4e7c7-9cda-412a-85d3-982fb4aa7bf5/index.m3u8
-#EXTINF:-1,TOP MOMENT00:594644! Samit Patel dismantled Rayad Emrit
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608692/a4adfe2c-6a6a-47c8-865f-9ed0bb733e10/index.m3u8
-#EXTINF:-1,TOP MOMENT00:33CRACKING CATCH! De Grandhomme left Rayudu dazed
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608683/5ef05ffd-d4d0-439f-8bb6-b5e162f36f6f/index.m3u8
-#EXTINF:-1,HIGHLIGHTS18:35Dubai Royals beat Gurugram Thunders by 3 runs | Match 4
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605398/2a27ab83-dbc0-4935-9124-f88560a28148/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:24Thisara Perera's 56* off 27 | Match 4
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605307/defc6023-c3d8-4424-8e0c-b0dc0c155a8b/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:40Cheteshwar Pujara's 99 off 60 | Match 4
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769605293/b5f5bece-b5ca-435e-9799-54ce597a5ca3/index.m3u8
