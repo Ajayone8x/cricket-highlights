@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1,TOP MOMENT00:59WW! Rishi Dhawan rips through Lion's batting
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769686027/054d73dd-e869-4d47-8aa2-5128e6bc343b/index.m3u8
+#EXTINF:-1,TOP MOMENT00:30HISTORIC! Chawla bags the first hat-trick in the World Legends Pro T20
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769684508/3c1f00e6-e26b-4f64-b354-8b5bf6dac105/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:42Naman Ojha's 66 off 43 | Match 6
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769683541/0c539172-e63d-43cc-91b2-7c7313a3be14/index.m3u8
+#EXTINF:-1,TOP SPELLS01:03Piyush Chawla's 3 for 29 | Match 6
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769683526/9d6024bc-777c-47e2-8f57-cacb05211e47/index.m3u8
 #EXTINF:-1,HIGHLIGHTSDelhi Warriors beat Pune Panthers by 59 runs | Match 5
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624559/dc3e8a00-7f9b-4233-9015-0f2549cdb648/index.m3u8
+#EXTINF:-1,TOP SPELLS01:27Isuru Udana's 3 for 22 | Match 5
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624476/f145e37a-1717-4616-9996-44bd516219f4/index.m3u8
 #EXTINF:-1,TOP SPELLS01:25Shahbaz Nadeem's 3 for 25 | Match 5
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624460/ffb46982-7d54-4465-91de-7c7df7d8f99d/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:29Samiullah Shinwari's 52 off 28 | Match 5
@@ -9,11 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624444/c1
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624430/8b8db5bc-caa9-431d-97da-22e41d69a5c9/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:33Irfan Pathan's 49* off 26 | Match 5
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616439/548dcdc1-a8af-412a-be41-3547241aa5fc/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:16Shreevats Goswami's 51 off 33 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616294/123efc84-5d29-405d-8531-ac29a7edfdcc/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:57Chadwick Walton's 62 off 32 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616287/29a9877b-49ad-47bd-854d-8b2b7b431a66/index.m3u8
-#EXTINF:-1,TOP MOMENT00:34Pure Bravado! Peter Trego takes a swashbuckling catch
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608707/9de653ad-6930-4c83-b6b7-0aaff59051f6/index.m3u8
-#EXTINF:-1,TOP MOMENT00:32HEARTBREAK! Pujara misses out on his ton by a whisker
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769608699/96e4e7c7-9cda-412a-85d3-982fb4aa7bf5/index.m3u8
