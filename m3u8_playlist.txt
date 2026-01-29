@@ -1,21 +1,21 @@
 #EXTM3U
+#EXTINF:-1,HIGHLIGHTS19:56Gurugram Thunders beat Maharashtra Tycoons by 5 wickets | Match 7
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769709800/9027cd6e-46d6-44c5-af3b-1c5a585f8fdf/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:22Chirag Gandhi's 74* off 43 | Match 7
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769709218/4b04e72d-512e-4b37-8aa3-754c6022bafa/index.m3u8
+#EXTINF:-1,TOP KNOCKS03:45Sarul Kanwar's 77* off 33 | Match 7
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769703453/df8b6f8b-4c34-457a-96d3-0e7357cb4dc7/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:19Shaun Marsh's 52 off 37 | Match 7
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769703439/8321bc4f-c91d-4d0b-9c77-c4a9ab7b6561/index.m3u8
+#EXTINF:-1,HIGHLIGHTS21:41Rajasthan Lions beat Dubai Royals by 16 runs | Match 6
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769691550/a87fa587-baee-4c99-a2ac-a8a969ecad66/index.m3u8
+#EXTINF:-1,TOP SPELLS01:16Bipul Sharma's 3 for 28 | Match 6
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769690991/fb38e0b8-8dea-45f3-a2ce-4305db24a5d5/index.m3u8
+#EXTINF:-1,TOP SPELLS01:38Jesal Karia's 3 for 21 | Match 6
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769690982/425eea12-2160-422d-b84a-2273ab05b840/index.m3u8
 #EXTINF:-1,TOP MOMENT00:59WW! Rishi Dhawan rips through Lion's batting
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769686027/054d73dd-e869-4d47-8aa2-5128e6bc343b/index.m3u8
 #EXTINF:-1,TOP MOMENT00:30HISTORIC! Chawla bags the first hat-trick in the World Legends Pro T20
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769684508/3c1f00e6-e26b-4f64-b354-8b5bf6dac105/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:42Naman Ojha's 66 off 43 | Match 6
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769683541/0c539172-e63d-43cc-91b2-7c7313a3be14/index.m3u8
-#EXTINF:-1,TOP SPELLS01:03Piyush Chawla's 3 for 29 | Match 6
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769683526/9d6024bc-777c-47e2-8f57-cacb05211e47/index.m3u8
-#EXTINF:-1,HIGHLIGHTSDelhi Warriors beat Pune Panthers by 59 runs | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624559/dc3e8a00-7f9b-4233-9015-0f2549cdb648/index.m3u8
-#EXTINF:-1,TOP SPELLS01:27Isuru Udana's 3 for 22 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624476/f145e37a-1717-4616-9996-44bd516219f4/index.m3u8
-#EXTINF:-1,TOP SPELLS01:25Shahbaz Nadeem's 3 for 25 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624460/ffb46982-7d54-4465-91de-7c7df7d8f99d/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:29Samiullah Shinwari's 52 off 28 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624444/c11acdd8-3b2a-487e-85d2-37b811d13104/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:55Upul Tharanga's 50 off 31 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769624430/8b8db5bc-caa9-431d-97da-22e41d69a5c9/index.m3u8
-#EXTINF:-1,TOP KNOCKS01:33Irfan Pathan's 49* off 26 | Match 5
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769616439/548dcdc1-a8af-412a-be41-3547241aa5fc/index.m3u8
