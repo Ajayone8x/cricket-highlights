@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,TOP KNOCKS02:06Sheldon Jackson's 52 off 29 | Match 8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769774579/20f526b3-1cef-4e4a-b587-cd6ea6fea5e6/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:49Stuart Binny's 63 off 31 | Match 8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769770642/d1d77f41-5ae9-4cce-908f-2f9713579d92/index.m3u8
 #EXTINF:-1,HIGHLIGHTS19:56Gurugram Thunders beat Maharashtra Tycoons by 5 wickets | Match 7
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769709800/9027cd6e-46d6-44c5-af3b-1c5a585f8fdf/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:22Chirag Gandhi's 74* off 43 | Match 7
@@ -15,7 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769690991/fb
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769690982/425eea12-2160-422d-b84a-2273ab05b840/index.m3u8
 #EXTINF:-1,TOP MOMENT00:59WW! Rishi Dhawan rips through Lion's batting
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769686027/054d73dd-e869-4d47-8aa2-5128e6bc343b/index.m3u8
-#EXTINF:-1,TOP MOMENT00:30HISTORIC! Chawla bags the first hat-trick in the World Legends Pro T20
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769684508/3c1f00e6-e26b-4f64-b354-8b5bf6dac105/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:42Naman Ojha's 66 off 43 | Match 6
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769683541/0c539172-e63d-43cc-91b2-7c7313a3be14/index.m3u8
