@@ -1,21 +1,25 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769796845/74a76ba0-4008-4da2-bee8-9bfbcca14e78_1769796826850/index.m3u8
+#EXTINF:-1,World Legends Pro T20 League, 2026Match 9Pune PanthersRajasthan LionsRajasthan Lions beat Pune Panthers by 6 wicketsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769796845/74a76ba0-4008-4da2-bee8-9bfbcca14e78_1769796826850/index.m3u8
+#EXTINF:-1,HIGHLIGHTS16:43Rajasthan Lions beat Pune Panthers by 6 wickets | Match 9
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769796845/74a76ba0-4008-4da2-bee8-9bfbcca14e78_1769796826850/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:01Naman Ojha's 51 off 28 | Match 9
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769794150/f2eee93e-0bae-44a8-a658-7a657206c31f/index.m3u8
+#EXTINF:-1,TOP MOMENT01:12Six-hitting Pollard goes berserk with 5 maximums
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769791767/aaf403f5-7301-474f-9a84-327154e7034a/index.m3u8
+#EXTINF:-1,TOP SPELLS01:30Shadab Jakati's 3 for 13 | Match 9
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769787857/4a565b61-21ff-4c8d-aadd-ef1f1c8447f0/index.m3u8
+#EXTINF:-1,TOP MOMENT00:31Dale Steyn's special celebration steals the show
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769779962/b1c330fe-ffd6-4dc1-af52-8820f04bc2bb/index.m3u8
+#EXTINF:-1,TOP MOMENT00:33Unintentional self-destruct at the crease ft. Shaun Marsh
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769778988/89d94b2d-b754-444b-9066-cf50de45aa52/index.m3u8
+#EXTINF:-1,HIGHLIGHTSDelhi Warriors beat Maharashtra Tycoons by 3 wickets | Match 8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769778063/3334a4d0-3fa6-4eb8-9182-fb9625316d6e/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:06Sheldon Jackson's 52 off 29 | Match 8
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769774579/20f526b3-1cef-4e4a-b587-cd6ea6fea5e6/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:49Stuart Binny's 63 off 31 | Match 8
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769770642/d1d77f41-5ae9-4cce-908f-2f9713579d92/index.m3u8
 #EXTINF:-1,HIGHLIGHTS19:56Gurugram Thunders beat Maharashtra Tycoons by 5 wickets | Match 7
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769709800/9027cd6e-46d6-44c5-af3b-1c5a585f8fdf/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:22Chirag Gandhi's 74* off 43 | Match 7
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769709218/4b04e72d-512e-4b37-8aa3-754c6022bafa/index.m3u8
-#EXTINF:-1,TOP KNOCKS03:45Sarul Kanwar's 77* off 33 | Match 7
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769703453/df8b6f8b-4c34-457a-96d3-0e7357cb4dc7/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:19Shaun Marsh's 52 off 37 | Match 7
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769703439/8321bc4f-c91d-4d0b-9c77-c4a9ab7b6561/index.m3u8
-#EXTINF:-1,HIGHLIGHTS21:41Rajasthan Lions beat Dubai Royals by 16 runs | Match 6
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769691550/a87fa587-baee-4c99-a2ac-a8a969ecad66/index.m3u8
-#EXTINF:-1,TOP SPELLS01:16Bipul Sharma's 3 for 28 | Match 6
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769690991/fb38e0b8-8dea-45f3-a2ce-4305db24a5d5/index.m3u8
-#EXTINF:-1,TOP SPELLS01:38Jesal Karia's 3 for 21 | Match 6
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769690982/425eea12-2160-422d-b84a-2273ab05b840/index.m3u8
-#EXTINF:-1,TOP MOMENT00:59WW! Rishi Dhawan rips through Lion's batting
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769686027/054d73dd-e869-4d47-8aa2-5128e6bc343b/index.m3u8
