@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769796845/74a76ba0-4008-4da2-bee8-9bfbcca14e78_1769796826850/index.m3u8
-#EXTINF:-1,World Legends Pro T20 League, 2026Match 9Pune PanthersRajasthan LionsRajasthan Lions beat Pune Panthers by 6 wicketsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769796845/74a76ba0-4008-4da2-bee8-9bfbcca14e78_1769796826850/index.m3u8
 #EXTINF:-1,HIGHLIGHTS16:43Rajasthan Lions beat Pune Panthers by 6 wickets | Match 9
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769796845/74a76ba0-4008-4da2-bee8-9bfbcca14e78_1769796826850/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:01Naman Ojha's 51 off 28 | Match 9
