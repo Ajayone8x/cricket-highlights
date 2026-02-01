@@ -1,25 +1,21 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769881602/e9c63fe7-d67d-4c49-bb22-66920ad78eb8/index.m3u8
-#EXTINF:-1,World Legends Pro T20 League, 2026Match 11Dubai RoyalsPune PanthersPune Panthers beat Dubai Royals by 130 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769881602/e9c63fe7-d67d-4c49-bb22-66920ad78eb8/index.m3u8
 #EXTINF:-1,HIGHLIGHTS22:11Pune Panthers beat Dubai Royals by 130 runs | Match 11
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769881602/e9c63fe7-d67d-4c49-bb22-66920ad78eb8/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131040_english_hls_8042df591287801_1ta-di_h264_backup/vod_469_index.m3u8
+#EXTINF:-1,TOP SPELLS01:49Abhishek Sakuja's 4 for 21 | Match 11
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769881504/076c0e2a-2033-436b-850f-19dce19edb95/index.m3u8
 #EXTINF:-1,TOP MOMENT01:02EXPLOSIVE! Watson dominates in style
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769877417/3f25a679-25a7-428a-a0af-9eb00073295c/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131040_english_hls_8042df591287801_1ta-di_h264_backup/vod_469_index.m3u8
 #EXTINF:-1,TOP KNOCKS02:21Shane Watson's 51 off 27 | Match 11
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769877362/891aae70-c560-45c1-b818-0452cb4f8eaa/index.m3u8
 #EXTINF:-1,TOP MOMENT01:18MAGNIFICENT! Martin Guptill slams a blitzkrieg ton
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769875512/05e70b77-fb16-44bf-bdfc-1a674a973424/index.m3u8
 #EXTINF:-1,TOP MOMENT00:22Red-Hot Shot! Rainaâs maximum breaks the fridge door
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769874516/a9d0b047-0a86-40e4-9dda-0d2fb5d81e77/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131040_english_hls_8042df591287801_1ta-di_h264_backup/vod_469_index.m3u8
 #EXTINF:-1,TOP MOMENT01:19446446! Absolute carnage as Martin Guptill  runs riot
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769873972/674aa23b-0c99-4f84-bda2-eac7176da750/index.m3u8
 #EXTINF:-1,TOP KNOCKS05:00Martin Guptill's 104 off 45 | Match 11
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769872261/257ca72f-9d94-437b-826a-0acad08b5225/index.m3u8
 #EXTINF:-1,TOP MOMENT00:29ONE-HANDED STUNNER! Naman Ojha rolls back the years
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769872221/36b82cfb-2fdb-4117-98db-4f78a7abe4c3/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131040_english_hls_8042df591287801_1ta-di_h264_backup/vod_469_index.m3u8
 #EXTINF:-1,HIGHLIGHTS17:24Rajasthan Lions beat Gurugram Thunders by 27 runs | Match 10
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769864096/9a352543-e1b9-4643-9007-11a9ed41855f/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:24Chirag Gandhi's 54 off 27 | Match 10
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769863868/86d6c918-703e-4d16-be87-191dc252d7e1/index.m3u8
