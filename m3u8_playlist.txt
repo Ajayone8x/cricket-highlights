@@ -1,21 +1,19 @@
 #EXTM3U
+#EXTINF:-1,TOP KNOCKS01:52Sheldon Jackson's 59* off 38 | Match 13
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+#EXTINF:-1,HIGHLIGHTS17:14Delhi Warriors beat Gurugram Thunders by 4 wickets | Match 13
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+#EXTINF:-1,TOP KNOCKS01:51Cheteshwar Pujara's 58 off 43 | Match 13
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+#EXTINF:-1,TOP KNOCKS02:03Jermaine Blackwood's 51 off 30 | Match 13
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+#EXTINF:-1,TOP MOMENT00:25ACROBATIC! Ankit Rajpoot dives in to take a superb catch
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+#EXTINF:-1,HIGHLIGHTS14:24Pune Panthers beat Maharashtra Tycoons by 12 runs | Match 12
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+#EXTINF:-1,TOP SPELLS01:31Dwayne Bravo's 4 for 30 | Match 12
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+#EXTINF:-1,TOP SPELLS00:59Amit Mishra's 3 for 20 | Match 12
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
 #EXTINF:-1,TOP KNOCKS01:47Martin Guptill's 62 off 46 | Match 12
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769948628/ec021afd-31b7-4a81-91dd-803e2d485d8e/index.m3u8
-#EXTINF:-1,HIGHLIGHTS22:11Pune Panthers beat Dubai Royals by 130 runs | Match 11
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769881602/e9c63fe7-d67d-4c49-bb22-66920ad78eb8/index.m3u8
-#EXTINF:-1,TOP SPELLS01:49Abhishek Sakuja's 4 for 21 | Match 11
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769881504/076c0e2a-2033-436b-850f-19dce19edb95/index.m3u8
-#EXTINF:-1,TOP MOMENT01:02EXPLOSIVE! Watson dominates in style
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769877417/3f25a679-25a7-428a-a0af-9eb00073295c/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:21Shane Watson's 51 off 27 | Match 11
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769877362/891aae70-c560-45c1-b818-0452cb4f8eaa/index.m3u8
-#EXTINF:-1,TOP MOMENT01:18MAGNIFICENT! Martin Guptill slams a blitzkrieg ton
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769875512/05e70b77-fb16-44bf-bdfc-1a674a973424/index.m3u8
-#EXTINF:-1,TOP MOMENT00:22Red-Hot Shot! Rainaâs maximum breaks the fridge door
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769874516/a9d0b047-0a86-40e4-9dda-0d2fb5d81e77/index.m3u8
-#EXTINF:-1,TOP MOMENT01:19446446! Absolute carnage as Martin Guptill  runs riot
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769873972/674aa23b-0c99-4f84-bda2-eac7176da750/index.m3u8
-#EXTINF:-1,TOP KNOCKS05:00Martin Guptill's 104 off 45 | Match 11
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769872261/257ca72f-9d94-437b-826a-0acad08b5225/index.m3u8
-#EXTINF:-1,TOP MOMENT00:29ONE-HANDED STUNNER! Naman Ojha rolls back the years
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769872221/36b82cfb-2fdb-4117-98db-4f78a7abe4c3/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
