@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TOP KNOCKS01:47Martin Guptill's 62 off 46 | Match 12
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769948628/ec021afd-31b7-4a81-91dd-803e2d485d8e/index.m3u8
 #EXTINF:-1,HIGHLIGHTS22:11Pune Panthers beat Dubai Royals by 130 runs | Match 11
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769881602/e9c63fe7-d67d-4c49-bb22-66920ad78eb8/index.m3u8
 #EXTINF:-1,TOP SPELLS01:49Abhishek Sakuja's 4 for 21 | Match 11
@@ -17,5 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769873972/67
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769872261/257ca72f-9d94-437b-826a-0acad08b5225/index.m3u8
 #EXTINF:-1,TOP MOMENT00:29ONE-HANDED STUNNER! Naman Ojha rolls back the years
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769872221/36b82cfb-2fdb-4117-98db-4f78a7abe4c3/index.m3u8
-#EXTINF:-1,HIGHLIGHTS17:24Rajasthan Lions beat Gurugram Thunders by 27 runs | Match 10
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769864096/9a352543-e1b9-4643-9007-11a9ed41855f/index.m3u8
