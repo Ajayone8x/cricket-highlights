@@ -1,19 +1,23 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769970802/991ee46d-c824-4d9f-8788-647cd841aad8/index.m3u8
+#EXTINF:-1,England tour of Sri Lanka, 20262nd T20ISri LankaEnglandEngland beat Sri Lanka by 6 wickets (DLS method)HIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769970802/991ee46d-c824-4d9f-8788-647cd841aad8/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:52Sheldon Jackson's 59* off 38 | Match 13
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769968993/d68566f3-a2eb-4094-bb63-97d3b519d41b/index.m3u8
 #EXTINF:-1,HIGHLIGHTS17:14Delhi Warriors beat Gurugram Thunders by 4 wickets | Match 13
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769968622/bc73198d-a74d-4022-a3b9-7ffbe29f967e/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:51Cheteshwar Pujara's 58 off 43 | Match 13
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769962213/907f2fb9-a568-436f-910f-0fd161e7b4c2/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:03Jermaine Blackwood's 51 off 30 | Match 13
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769962205/7984edf8-67bb-4664-b606-572fa7594d30/index.m3u8
 #EXTINF:-1,TOP MOMENT00:25ACROBATIC! Ankit Rajpoot dives in to take a superb catch
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769952971/16ca695c-a231-4271-9077-6ea7842da8d2/index.m3u8
 #EXTINF:-1,HIGHLIGHTS14:24Pune Panthers beat Maharashtra Tycoons by 12 runs | Match 12
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769950470/f6567104-522e-4617-8958-3edd94c15b8b/index.m3u8
 #EXTINF:-1,TOP SPELLS01:31Dwayne Bravo's 4 for 30 | Match 12
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769949722/7f40ece2-9a67-4a19-9265-d73caa7de75a/index.m3u8
 #EXTINF:-1,TOP SPELLS00:59Amit Mishra's 3 for 20 | Match 12
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769949653/e7a5909a-314b-4ade-9d5b-0ce0fc524629/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:47Martin Guptill's 62 off 46 | Match 12
-https://in-mc-vod.fancode.com/delhi/131044_english_hls_b49292bf4078046_1ta-di_h264_backup/vod_68_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1769948628/ec021afd-31b7-4a81-91dd-803e2d485d8e/index.m3u8
