@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TOP KNOCKS03:02Angelo Perera's 96* off 55 | 1st Semi-Final
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770120788/f11b2b12-a8e8-4c15-98d2-64fbda45f344/index.m3u8
 #EXTINF:-1,TOP MOMENT01:076666! Shikhar Dhawan sends the crowd into a frenzy!
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770066216/7322e123-4e85-4e24-b09d-aacd81bf7ff2/index.m3u8
 #EXTINF:-1,HIGHLIGHTSDubai Royals beat Maharashtra Tycoons by 7 wickets | Match 15
@@ -17,5 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770037996/dc
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770037842/300f274f-8b93-450d-b6a2-25cbcab2955a/index.m3u8
 #EXTINF:-1,TOP MOMENT00:43666! Eoin Morgan takes Pawan Negi for a ride
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770031824/8dcd3e1e-2b11-4705-b8a0-f7915e515116/index.m3u8
-#EXTINF:-1,TOP MOMENT00:32FIVE-WICKET HAUL! Suboth Bhati runs riot with the ball
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770031814/e6fed77e-face-4e5f-b9b6-935145f95c3b/index.m3u8
