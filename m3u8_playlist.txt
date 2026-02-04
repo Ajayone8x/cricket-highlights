@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,TOP KNOCKS03:16Manvinder Bisla's 67 off 44 | Final
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770228457/fa43268b-4268-4c85-97ca-a2d9fbf93975/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:08Shikhar Dhawan's 64 off 39 | Final
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770227273/c2de3614-24e8-422d-bf32-0be9dc0fda33/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:17Shane Watson's 50* off 24 | Final
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770222124/6b4f4fbb-4098-4309-9e74-eb59bce7a96a/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:07Upul Tharanga's 55 off 39 | Final
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770221005/068616a4-fb47-44fa-9e50-aae5673e32fa/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:00Martin Guptill's 62 off 40 | Final
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770220992/0ef1cd5e-d30c-40f8-9c05-b100ec95dc86/index.m3u8
 #EXTINF:-1,TOP MOMENT00:40NEARLY DROPPED! Amit Verma's heart-stopping catch
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770192368/8e6f3b1f-697c-4bb3-ba32-9512eba285a9/index.m3u8
 #EXTINF:-1,TOP MOMENT00:37Take A Bow! Seekkuge Prasanna's screamer dismisses Dhawan
@@ -9,13 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770144801/4f
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770143827/5fe3bc39-29c5-4627-8bb9-996a69a1f4b8/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:33Shikhar Dhawan's 71 off 46 | 2nd Semi-Final
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770135365/616044c5-36fe-4971-b83b-b0cf824edf00/index.m3u8
-#EXTINF:-1,TOP MOMENT00:43646! Samiullah Shinwari brings up the fireworks in Goa
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770130835/babed725-06cd-4260-acd2-a59fb8062004/index.m3u8
-#EXTINF:-1,TOP MOMENT00:444464! Vintage Robin Uthappa unleashed
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770130805/58447629-a900-4464-8eb1-1f95f6354ace/index.m3u8
-#EXTINF:-1,TOP MOMENT00:36Phenomenal Catch! Shadab Jakati sends Pollard packing
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770130779/0fb96d22-b652-4efb-bc0b-2c9ed2469f31/index.m3u8
-#EXTINF:-1,TOP MOMENT00:36Caught & Bowled Brilliance! Bravo dismisses Raina
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770130754/935d2ad8-ec2e-4d4e-a138-ea6184fc1759/index.m3u8
-#EXTINF:-1,HIGHLIGHTSPune Panthers beat Rajasthan Lions by 6 wickets | 1st Semi-Final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770127513/9ce8f6c8-c730-4c19-a967-917282024faa/index.m3u8
