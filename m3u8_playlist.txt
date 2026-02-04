@@ -3,6 +3,8 @@
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770140938/b29937b2-6ae7-451f-87ae-e952d9c40f3b/index.m3u8
 #EXTINF:-1,England tour of Sri Lanka, 20263rd T20ISri LankaEnglandEngland beat Sri Lanka by 12 runsHIGHLIGHTS
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770140938/b29937b2-6ae7-451f-87ae-e952d9c40f3b/index.m3u8
+#EXTINF:-1,HIGHLIGHTS19:26Dubai Royals beat Delhi Warriors by 16 runs | 2nd Semi-Final
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770144801/4f90c258-328b-4176-9618-7b3390066949/index.m3u8
 #EXTINF:-1,TOP SPELLS01:09Piyush Chawla's 3 for 25 | 2nd Semi-Final
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770143827/5fe3bc39-29c5-4627-8bb9-996a69a1f4b8/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:33Shikhar Dhawan's 71 off 46 | 2nd Semi-Final
@@ -21,5 +23,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770127513/9c
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770126896/4b9215ef-47c6-4238-b819-4f2ee5a9b681/index.m3u8
 #EXTINF:-1,TOP KNOCKS03:02Angelo Perera's 96* off 55 | 1st Semi-Final
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770120788/f11b2b12-a8e8-4c15-98d2-64fbda45f344/index.m3u8
-#EXTINF:-1,TOP MOMENT01:076666! Shikhar Dhawan sends the crowd into a frenzy!
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770066216/7322e123-4e85-4e24-b09d-aacd81bf7ff2/index.m3u8
