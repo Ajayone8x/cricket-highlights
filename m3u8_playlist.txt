@@ -1,17 +1,1 @@
 #EXTM3U
-#EXTINF:-1,TOP MOMENT01:03Shikhar Dhawan unleashes mayhem in the final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770233804/148d7a23-cab2-47e6-8eec-36e42a029be1/index.m3u8
-#EXTINF:-1,HIGHLIGHTS22:17Dubai Royals beat Pune Panthers by 8 wickets | Final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770232937/4347689b-b779-45df-964f-ac8897c6290f/index.m3u8
-#EXTINF:-1,TOP KNOCKS03:16Manvinder Bisla's 67 off 44 | Final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770228457/fa43268b-4268-4c85-97ca-a2d9fbf93975/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:17Shane Watson's 50* off 24 | Final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770222124/6b4f4fbb-4098-4309-9e74-eb59bce7a96a/index.m3u8
-#EXTINF:-1,TOP KNOCKS02:00Martin Guptill's 62 off 40 | Final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770220992/0ef1cd5e-d30c-40f8-9c05-b100ec95dc86/index.m3u8
-#EXTINF:-1,TOP MOMENT00:40NEARLY DROPPED! Amit Verma's heart-stopping catch
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770192368/8e6f3b1f-697c-4bb3-ba32-9512eba285a9/index.m3u8
-#EXTINF:-1,TOP MOMENT00:37Take A Bow! Seekkuge Prasanna's screamer dismisses Dhawan
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770192353/073fd146-6b91-4f88-b6bb-b6e05fa96899/index.m3u8
-#EXTINF:-1,HIGHLIGHTS19:26Dubai Royals beat Delhi Warriors by 16 runs | 2nd Semi-Final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770144801/4f90c258-328b-4176-9618-7b3390066949/index.m3u8
