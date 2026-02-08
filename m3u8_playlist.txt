@@ -8,9 +8,9 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770228457/fa
 #EXTINF:-1,TOP KNOCKS02:08Shikhar Dhawan's 64 off 39 | Final
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770227273/c2de3614-24e8-422d-bf32-0be9dc0fda33/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:17Shane Watson's 50* off 24 | Final
-https://in-mc-vod.fancode.com/delhi/131059_english_hls_fe4ce2565317293_1ta-di_h264_backup/vod_227_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770222124/6b4f4fbb-4098-4309-9e74-eb59bce7a96a/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:07Upul Tharanga's 55 off 39 | Final
-https://in-mc-vod.fancode.com/delhi/131059_english_hls_fe4ce2565317293_1ta-di_h264_backup/vod_227_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770221005/068616a4-fb47-44fa-9e50-aae5673e32fa/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:00Martin Guptill's 62 off 40 | Final
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770220992/0ef1cd5e-d30c-40f8-9c05-b100ec95dc86/index.m3u8
 #EXTINF:-1,TOP MOMENT00:40NEARLY DROPPED! Amit Verma's heart-stopping catch
