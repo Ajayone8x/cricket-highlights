@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TOP MOMENT01:03Shikhar Dhawan unleashes mayhem in the final
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770233804/148d7a23-cab2-47e6-8eec-36e42a029be1/index.m3u8
 #EXTINF:-1,HIGHLIGHTS22:17Dubai Royals beat Pune Panthers by 8 wickets | Final
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770232937/4347689b-b779-45df-964f-ac8897c6290f/index.m3u8
 #EXTINF:-1,TOP KNOCKS03:16Manvinder Bisla's 67 off 44 | Final
