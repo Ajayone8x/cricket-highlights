@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770732791/aeead0f8-983b-4f0c-87c3-a6da2df1b541/index.m3u8
-#EXTINF:-1,One Day Cup, 2025-26Match 18Western AustraliaTasmaniaWestern Australia beat Tasmania by 1 wicketHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770732791/aeead0f8-983b-4f0c-87c3-a6da2df1b541/index.m3u8
 #EXTINF:-1,HIGHLIGHTS17:34United Arab Emirates beat Nepal by 4 wickets | Match 91
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762353248/fad89f76-a29a-494c-9612-0995ebe4b08a_1762353229457/index.m3u8
 #EXTINF:-1,TOP SPELLS01:18Karan KC's 3 for 58 | Match 91
