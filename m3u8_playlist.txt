@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770981873/0d451431-ef4e-4668-bb6b-2ebd28952731/index.m3u8
-#EXTINF:-1,Governor Generalâs XI vs India 2026 - WomenAustralia Governor Generals XIIndia WomenHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1770981873/0d451431-ef4e-4668-bb6b-2ebd28952731/index.m3u8
 #EXTINF:-1,HIGHLIGHTS17:34United Arab Emirates beat Nepal by 4 wickets | Match 91
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762353248/fad89f76-a29a-494c-9612-0995ebe4b08a_1762353229457/index.m3u8
 #EXTINF:-1,TOP SPELLS01:18Karan KC's 3 for 58 | Match 91
