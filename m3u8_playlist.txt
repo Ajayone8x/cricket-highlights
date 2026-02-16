@@ -2,20 +2,20 @@
 #EXTINF:-1,HIGHLIGHTS17:34United Arab Emirates beat Nepal by 4 wickets | Match 91
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762353248/fad89f76-a29a-494c-9612-0995ebe4b08a_1762353229457/index.m3u8
 #EXTINF:-1,TOP SPELLS01:18Karan KC's 3 for 58 | Match 91
-https://in-mc-vod.fancode.com/delhi/140434_english_hls_84dbfa7f6e82950_1ta-di_h264_backup/vod_904_index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
 #EXTINF:-1,TOP KNOCKS02:28Muhammad Shahdad's 96 off 123 | Match 91
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762351791/2c14e358-a30c-4069-b5ab-659c1bf6313a/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
 #EXTINF:-1,TOP KNOCKS01:52Muhammad Waseem's 76 off 73 | Match 91
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762351779/f200e134-d778-477d-8322-7a7be255bd34/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
 #EXTINF:-1,TOP SPELLS00:49Saurabh Netravalkar's 3 for 4 | Match 90
-https://in-mc-vod.fancode.com/delhi/140434_english_hls_84dbfa7f6e82950_1ta-di_h264_backup/vod_904_index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
 #EXTINF:-1,TOP SPELLS01:48Rushil Ugarkar's 5 for 22 | Match 90
-https://in-mc-vod.fancode.com/delhi/140434_english_hls_84dbfa7f6e82950_1ta-di_h264_backup/vod_904_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762171489/2827ebfa-a4d2-4a91-bebb-80ce09897436/index.m3u8
 #EXTINF:-1,HIGHLIGHTS12:56USA beat UAE by 243 runs | Match 90
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762171241/adc14dc9-50e3-421e-8b13-23cde2c5783b/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
 #EXTINF:-1,TOP KNOCKS03:02Saiteja Mukkamalla's 137* off 149 | Match 90
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762163451/6a3a7e30-9cef-4efe-860f-a9f9015ba84e/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
 #EXTINF:-1,TOP KNOCKS02:52Milind Kumar's 123* off 125 | Match 90
-https://in-mc-vod.fancode.com/delhi/140434_english_hls_84dbfa7f6e82950_1ta-di_h264_backup/vod_904_index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
 #EXTINF:-1,HIGHLIGHTS18:43USA beat Nepal by 4 wickets | Match 89
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762005987/ceb4eed6-a5a5-4f8c-84cc-44d88c5bbe5a/index.m3u8
+https://in-mc-vod.fancode.com/delhi/131061_english_hls_7ab9261c6a46327_1ta-di_h264_backup/vod_89_index.m3u8
