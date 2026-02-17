@@ -1,1 +1,21 @@
 #EXTM3U
+#EXTINF:-1,HIGHLIGHTS17:34United Arab Emirates beat Nepal by 4 wickets | Match 91
+https://in-mc-vod.fancode.com/delhi/131062_english_hls_ada17f882779967_1ta-di_h264_backup/vod_102_index.m3u8
+#EXTINF:-1,TOP SPELLS01:18Karan KC's 3 for 58 | Match 91
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762351797/9d19a8f2-f485-4a63-aa59-58ab595b97c4/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:28Muhammad Shahdad's 96 off 123 | Match 91
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762351791/2c14e358-a30c-4069-b5ab-659c1bf6313a/index.m3u8
+#EXTINF:-1,TOP KNOCKS01:52Muhammad Waseem's 76 off 73 | Match 91
+https://in-mc-vod.fancode.com/delhi/131062_english_hls_ada17f882779967_1ta-di_h264_backup/vod_102_index.m3u8
+#EXTINF:-1,TOP SPELLS00:49Saurabh Netravalkar's 3 for 4 | Match 90
+https://in-mc-vod.fancode.com/delhi/131062_english_hls_ada17f882779967_1ta-di_h264_backup/vod_102_index.m3u8
+#EXTINF:-1,TOP SPELLS01:48Rushil Ugarkar's 5 for 22 | Match 90
+https://in-mc-vod.fancode.com/delhi/131062_english_hls_ada17f882779967_1ta-di_h264_backup/vod_102_index.m3u8
+#EXTINF:-1,HIGHLIGHTS12:56USA beat UAE by 243 runs | Match 90
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762171241/adc14dc9-50e3-421e-8b13-23cde2c5783b/index.m3u8
+#EXTINF:-1,TOP KNOCKS03:02Saiteja Mukkamalla's 137* off 149 | Match 90
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1762163451/6a3a7e30-9cef-4efe-860f-a9f9015ba84e/index.m3u8
+#EXTINF:-1,TOP KNOCKS02:52Milind Kumar's 123* off 125 | Match 90
+https://in-mc-vod.fancode.com/delhi/131062_english_hls_ada17f882779967_1ta-di_h264_backup/vod_102_index.m3u8
+#EXTINF:-1,HIGHLIGHTS18:43USA beat Nepal by 4 wickets | Match 89
+https://in-mc-vod.fancode.com/delhi/131062_english_hls_ada17f882779967_1ta-di_h264_backup/vod_102_index.m3u8
