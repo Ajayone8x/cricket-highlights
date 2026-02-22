@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1,HIGHLIGHTS19:24Sri Lanka Women beat West Indies Women by 10 runs | 1st ODI
-https://in-mc-vod.fancode.com/delhi/131071_english_hls_f5b8d602a823022_1ta-di_h264_backup/vod_724_index.m3u8
+https://in-mc-vod.fancode.com/mumbai/131076_english_hls_06eb63924519571_1ta-di_h264_backup/vod_744_index.m3u8
 #EXTINF:-1,TOP SPELLS01:44Inoka Ranaweera's 4 for 44 | 1st ODI
-https://in-mc-vod.fancode.com/delhi/131071_english_hls_f5b8d602a823022_1ta-di_h264_backup/vod_724_index.m3u8
+https://in-mc-vod.fancode.com/mumbai/131076_english_hls_06eb63924519571_1ta-di_h264_backup/vod_744_index.m3u8
 #EXTINF:-1,TOP KNOCKS01:50Stafanie Taylor's 66 off 83 | 1st ODI
-https://in-mc-vod.fancode.com/delhi/131071_english_hls_f5b8d602a823022_1ta-di_h264_backup/vod_724_index.m3u8
+https://in-mc-vod.fancode.com/mumbai/131076_english_hls_06eb63924519571_1ta-di_h264_backup/vod_744_index.m3u8
 #EXTINF:-1,TOP KNOCKS02:03Jannillea Glasgow's 50 off 67 | 1st ODI
-https://in-mc-vod.fancode.com/delhi/131071_english_hls_f5b8d602a823022_1ta-di_h264_backup/vod_724_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771620673/9d7a0c31-18ae-48f6-b597-89398ebfd70b/index.m3u8
 #EXTINF:-1,TOP MOMENT00:41SUPERWOMAN IN THE FIELD! Aaliyah Alleyneâs diving stunner
-https://in-mc-vod.fancode.com/delhi/131071_english_hls_f5b8d602a823022_1ta-di_h264_backup/vod_724_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771618178/14724761-29b7-4615-bb5f-7d4bfb0f99de/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:47Hasini Perera's 61 off 86 | 1st ODI
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771607501/9858b852-8572-4b82-831c-7a0bafe92f59/index.m3u8
+https://in-mc-vod.fancode.com/mumbai/131076_english_hls_06eb63924519571_1ta-di_h264_backup/vod_744_index.m3u8
 #EXTINF:-1,TOP KNOCKS01:37Harshitha Samarawickrama's 66 off 105 | 1st ODI
-https://in-mc-vod.fancode.com/delhi/131071_english_hls_f5b8d602a823022_1ta-di_h264_backup/vod_724_index.m3u8
+https://in-mc-vod.fancode.com/mumbai/131076_english_hls_06eb63924519571_1ta-di_h264_backup/vod_744_index.m3u8
 #EXTINF:-1,PREVIEW00:30Sri Lanka Women tour of West Indies 2026: Live on FanCode!
-https://in-mc-vod.fancode.com/delhi/131071_english_hls_f5b8d602a823022_1ta-di_h264_backup/vod_724_index.m3u8
+https://in-mc-vod.fancode.com/mumbai/131076_english_hls_06eb63924519571_1ta-di_h264_backup/vod_744_index.m3u8
