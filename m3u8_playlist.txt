@@ -1,21 +1,25 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771826780/58a0054a-986f-4908-a723-3524754dcc65/index.m3u8
+#EXTINF:-1,Women's National Cricket League, 2025-26Match 34New South Wales BreakersTasmania WomenNSWB beat TASW by 37 runsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771826780/58a0054a-986f-4908-a723-3524754dcc65/index.m3u8
 #EXTINF:-1,HIGHLIGHTS21:47Sri Lanka Women beat West Indies Women by 14 runs | 2nd ODI
-https://in-mc-vod.fancode.com/mumbai/131077_english_hls_0ce273a1b371143_1ta-di_h264_backup/vod_613_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771795463/a0447fa1-b4a1-44f8-b01e-17f854ae7245/index.m3u8
 #EXTINF:-1,TOP SPELLS01:33Inoka Ranaweera's 3 for 44 | 2nd ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771794747/6ce6a345-dd1b-4586-ab1f-c0528e9324a3/index.m3u8
 #EXTINF:-1,TOP SPELLS01:20Sugandika Kumari's 3 for 38 | 2nd ODI
-https://in-mc-vod.fancode.com/mumbai/131077_english_hls_0ce273a1b371143_1ta-di_h264_backup/vod_613_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771794738/42a31597-7e8c-4d4c-a846-6b4b77017e11/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:29Jannillea Glasgow's 50 off 69 | 2nd ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771794729/55f98086-3e4e-44b6-8594-b6f9bb1226d0/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:39Vishmi Gunarathne's 58 off 66 | 2nd ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771783118/664a41e4-0a50-4a69-8e3e-972c5aaaf221/index.m3u8
 #EXTINF:-1,TOP SPELLS01:07Karishma Ramharack's 3 for 26 | 2nd ODI
-https://in-mc-vod.fancode.com/mumbai/131077_english_hls_0ce273a1b371143_1ta-di_h264_backup/vod_613_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771783107/036e7232-eb1b-4034-9085-106e03a74006/index.m3u8
 #EXTINF:-1,HIGHLIGHTS19:24Sri Lanka Women beat West Indies Women by 10 runs | 1st ODI
-https://in-mc-vod.fancode.com/mumbai/131077_english_hls_0ce273a1b371143_1ta-di_h264_backup/vod_613_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771622800/46218834-dcb6-4efc-beb7-a60dd33e5363/index.m3u8
 #EXTINF:-1,TOP SPELLS01:44Inoka Ranaweera's 4 for 44 | 1st ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771622263/f2dd0fdd-25c3-4f2b-9b9a-cd4f0592a0d3/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:50Stafanie Taylor's 66 off 83 | 1st ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771620866/c3d66d4d-dfff-4186-8a3e-1f2534f2a728/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:03Jannillea Glasgow's 50 off 67 | 1st ODI
-https://in-mc-vod.fancode.com/mumbai/131077_english_hls_0ce273a1b371143_1ta-di_h264_backup/vod_613_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1771620673/9d7a0c31-18ae-48f6-b597-89398ebfd70b/index.m3u8
