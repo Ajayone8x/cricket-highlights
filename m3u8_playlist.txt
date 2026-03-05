@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772689208/5ea3d5d1-1264-4fbe-bf1e-99b69a80cef3/index.m3u8
-#EXTINF:-1,COMPLETEDNew Zealand WomenZimbabwe WomenZimbabwe Women tour of New Zealand, 20261st ODINew Zealand Women beat Zimbabwe Women by 180 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772689208/5ea3d5d1-1264-4fbe-bf1e-99b69a80cef3/index.m3u8
 #EXTINF:-1,HIGHLIGHTS09:09Sri Lanka Women beat West Indies Women by 9 wickets | 3rd T20I
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772568975/84af90ab-2665-46ad-b584-fd95dde725df/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:34Hasini Perera's 52* off 59 | 3rd T20I
