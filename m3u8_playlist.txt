@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1,HIGHLIGHTS09:09Sri Lanka Women beat West Indies Women by 9 wickets | 3rd T20I
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772568975/84af90ab-2665-46ad-b584-fd95dde725df/index.m3u8
 #EXTINF:-1,TOP KNOCKS01:34Hasini Perera's 52* off 59 | 3rd T20I
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772568930/937bc1d2-ec84-4727-af7f-c0ea7822c7a5/index.m3u8
 #EXTINF:-1,TOP MOMENT00:35SUBLIME! Chinelle Henry's screamer sends Athapaththu packing
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772567277/b41fb187-6c30-4acf-af42-555724330185/index.m3u8
 #EXTINF:-1,HIGHLIGHTS12:01Sri Lanka Women beat West Indies Women by 4 wickets | 2nd T20I
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772398047/0315648b-f919-4171-8aa8-f8f5a809f784/index.m3u8
 #EXTINF:-1,TOP SPELLS01:03Nilakshika Silva's 3 for 20 | 2nd T20I
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772391382/834e705a-8e15-4de2-a711-06f5cef2fad9/index.m3u8
 #EXTINF:-1,TOP SPELLS00:59Malki Madara's 3 for 16 | 2nd T20I
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772391326/3c5b467e-6a88-46cc-9936-139695544880/index.m3u8
 #EXTINF:-1,TOP SPELLS01:12Kavisha Dilhari's 3 for 5 | 1st T20I
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772311806/90bf1b0a-a4de-4b74-8a91-13a98f628313/index.m3u8
 #EXTINF:-1,PREVIEW00:30Sri Lanka Women's tour of West Indies 2026, 3 T20Is: Live on FanCode
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1772131114/SLWomenSI/index.m3u8
 #EXTINF:-1,TOP MOMENT00:29BRILLIANT! Matthews brings up her 10th ODI ton
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772093210/3a76f448-8533-41a5-b295-3c44f1747f27/index.m3u8
 #EXTINF:-1,HIGHLIGHTS15:24West Indies Women beat Sri Lanka Women by 6 wickets | 3rd ODI
-https://in-mc-vod.fancode.com/delhi/139362_english_hls_75c632b77a91749_1ta-di_h264_backup/vod_779_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1772055251/5d6341b4-2991-497e-9255-e75fae6514cb/index.m3u8
