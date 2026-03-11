@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773251002/fe5174f9-88eb-489f-a28e-3e76026dde2a/index.m3u8
+#EXTINF:-1,COMPLETEDMumbai SpartansIndia CaptainsLegends League Cricket, 2026Match 1India Captains beat Mumbai Spartans by 23 runsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773251002/fe5174f9-88eb-489f-a28e-3e76026dde2a/index.m3u8
 #EXTINF:-1,HIGHLIGHTSBangladesh beat Pakistan by 8 wickets | 1st ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773232893/8cf7f89a-5c3b-407f-9407-04c62bb9b9b9/index.m3u8
 #EXTINF:-1,TOP KNOCKS03:10Tanzid Hasan's 67* off 42 | 1st ODI
