@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773423526/0dc61d53-edda-4482-9d40-0bf7869c97d2/index.m3u8
+#EXTINF:-1,COMPLETEDBangladeshPakistanPakistan tour of Bangladesh, 20262nd ODIPakistan beat Bangladesh by 128 runs (DLS method)HIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773423526/0dc61d53-edda-4482-9d40-0bf7869c97d2/index.m3u8
 #EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773315852/360-SHow---S08E09---Draft-2/index.m3u8
