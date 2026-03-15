@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
-https://in-mc-vod.fancode.com/delhi/140462_english_hls_65840cc1f864300_1ta-di_h264_backup/vod_349_index.m3u8
+https://in-mc-vod.fancode.com/delhi/131100_english_hls_688d58ef9018147_1ta-di_h264_backup/vod_597_index.m3u8
