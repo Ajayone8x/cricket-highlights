@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773682905/5fa669c2-0761-4b0a-b28e-994698cdab9c_1773682888023/index.m3u8
+#EXTINF:-1,COMPLETEDIndia CaptainsSouthern Super StarsLegends League Cricket, 2026Match 6SSS beat ICN by 8 wicketsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773682905/5fa669c2-0761-4b0a-b28e-994698cdab9c_1773682888023/index.m3u8
 #EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773315852/360-SHow---S08E09---Draft-2/index.m3u8
