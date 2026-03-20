@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773999859/fa117387-a21c-455a-a0e4-cd524039da50/index.m3u8
-#EXTINF:-1,COMPLETEDNew ZealandSouth AfricaSouth Africa tour of New Zealand, 20263rd T20INew Zealand beat South Africa by 8 wicketsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773999859/fa117387-a21c-455a-a0e4-cd524039da50/index.m3u8
 #EXTINF:-1,SPECIAL35:28360 with ABD: Carabao Cup final, NZ vs SA, and Chahal joins in
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773834049/360-Show-S08E10---draft-2/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139927_english_hls_466e7da73d30696_1ta-di_h264_backup/vod_436_index.m3u8
 #EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773315852/360-SHow---S08E09---Draft-2/index.m3u8
+https://in-mc-vod.fancode.com/delhi/139927_english_hls_466e7da73d30696_1ta-di_h264_backup/vod_436_index.m3u8
