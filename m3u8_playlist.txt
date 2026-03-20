@@ -1,19 +1,9 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773999859/fa117387-a21c-455a-a0e4-cd524039da50/index.m3u8
+#EXTINF:-1,COMPLETEDNew ZealandSouth AfricaSouth Africa tour of New Zealand, 20263rd T20INew Zealand beat South Africa by 8 wicketsHIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773999859/fa117387-a21c-455a-a0e4-cd524039da50/index.m3u8
 #EXTINF:-1,SPECIAL35:28360 with ABD: Carabao Cup final, NZ vs SA, and Chahal joins in
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773834049/360-Show-S08E10---draft-2/index.m3u8
-#EXTINF:-1,TOP MOMENT00:35BOOM! Conway seals his 13th T20I fifty with a six
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773747970/7de8dbb2-f517-4a49-a0aa-5a3101119e12/index.m3u8
-#EXTINF:-1,TOP MOMENT00:4744W! Ferguson outmuscles Linde
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773747968/01456f4c-7272-493c-8027-d2818efaee15/index.m3u8
-#EXTINF:-1,TOP MOMENT00:25WW! Lockie Ferguson rips through the Proteas
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773747956/c56b6df6-7d1a-49ad-8e45-d0ae9866968b/index.m3u8
-#EXTINF:-1,HIGHLIGHTS15:56New Zealand beat South Africa by 68 runs | 2nd T20I
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773740826/db48362d-231d-4ac1-a1da-a4c604d05018/index.m3u8
-#EXTINF:-1,TOP SPELLS01:21Ben Sears's 3 for 14 | 2nd T20I
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773740620/e53c5791-c624-4b1f-8d28-ab7de289f03e/index.m3u8
-#EXTINF:-1,TOP KNOCKS01:51Devon Conway's 60 off 49 | 2nd T20I
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773734500/a6f8f5d7-8e97-481c-ba4b-7c8aeefcf8c4/index.m3u8
-#EXTINF:-1,TOP MOMENT00:34SUPERB! Tom Latham pulls off a beauty
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773576304/66d195f6-b662-4cf1-acaa-7897fce30fb7/index.m3u8
-#EXTINF:-1,TOP MOMENT00:28TIMBER! Maharaj dismantles Santner's stumps
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1773576296/892505f6-90d6-4031-8862-a1bb664d5822/index.m3u8
+#EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773315852/360-SHow---S08E09---Draft-2/index.m3u8
