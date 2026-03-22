@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,SPECIAL35:28360 with ABD: Carabao Cup final, NZ vs SA, and Chahal joins in
-https://in-mc-vod.fancode.com/delhi/139928_english_hls_37bcabef3f37311_1ta-di_h264_backup/vod_210_index.m3u8
+https://in-mc-vod.fancode.com/delhi/139928_english_hls_37bcabef3f37311_1ta-di_h264_backup/vod_431_index.m3u8
 #EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
-https://in-mc-vod.fancode.com/delhi/139928_english_hls_37bcabef3f37311_1ta-di_h264_backup/vod_210_index.m3u8
+https://in-mc-vod.fancode.com/delhi/139928_english_hls_37bcabef3f37311_1ta-di_h264_backup/vod_431_index.m3u8
