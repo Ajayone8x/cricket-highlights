@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1,
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774321582/82379c20-ec50-4a80-bb2f-9bc5cd588624/index.m3u8
+#EXTINF:-1,COMPLETEDWest Indies WomenAustralia WomenAustralia Women's tour of West Indies 20263rd T20IAustralia Women beat West Indies Women by 40 runs (DLS method)HIGHLIGHTS
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774321582/82379c20-ec50-4a80-bb2f-9bc5cd588624/index.m3u8
 #EXTINF:-1,SPECIAL35:28360 with ABD: Carabao Cup final, NZ vs SA, and Chahal joins in
-https://in-mc-vod.fancode.com/delhi/140469_english_hls_b458896f7191800_1ta-di_h264_backup/vod_788_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773834049/360-Show-S08E10---draft-2/index.m3u8
 #EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773315852/360-SHow---S08E09---Draft-2/index.m3u8
