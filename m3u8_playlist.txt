@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774832733/86ac7039-022a-41ec-8994-8f7c2be6e944_1774832711613/index.m3u8
-#EXTINF:-1,COMPLETEDWest Indies WomenAustralia WomenAustralia Women's tour of West Indies 20262nd ODIAustralia Women beat West Indies Women by 90 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774832733/86ac7039-022a-41ec-8994-8f7c2be6e944_1774832711613/index.m3u8
 #EXTINF:-1,PREVIEW00:303-match ODI series: Australia Women's tour of West Indies 2026
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1774518329/WI-vs-AUS-WODIs-30s-16-9/index.m3u8
 #EXTINF:-1,TOP MOMENT00:33SUPERB! 22-year-old Voll brings up her maiden T20I ton
