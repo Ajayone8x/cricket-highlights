@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1,PREVIEW00:303-match ODI series: Australia Women's tour of West Indies 2026
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_503_index.m3u8
 #EXTINF:-1,TOP MOMENT00:33SUPERB! 22-year-old Voll brings up her maiden T20I ton
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_503_index.m3u8
 #EXTINF:-1,TOP MOMENT00:36464! Molineuxâs boundary blitz turns the tide
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_503_index.m3u8
 #EXTINF:-1,HIGHLIGHTS14:22Australia Women beat West Indies Women by 40 runs on DLS | 3rd T20I
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_503_index.m3u8
 #EXTINF:-1,TOP KNOCKS04:13Georgia Voll's 101 off 53 | 3rd T20I
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774320027/e722cbf0-e7ff-4ab3-931b-a6c0f952f2f9/index.m3u8
 #EXTINF:-1,TOP SPELLS00:57Hayley Matthews's 3 for 29 | 3rd T20I
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774320007/39b1c9fe-095f-4bba-b103-2826e9377293/index.m3u8
 #EXTINF:-1,TOP MOMENT00:23SCREAMER! Nicola Carey's jaw-dropping catch lights it up
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_503_index.m3u8
 #EXTINF:-1,TOP MOMENT00:20JAFFA! Afy Fletcher dismantles Beth Mooney's stumps
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774155289/887e3941-39f5-4500-ab54-5b9ae53050d3/index.m3u8
 #EXTINF:-1,HIGHLIGHTS13:14Australia Women beat West Indies Women by 17 runs | 2nd T20I
-https://in-mc-vod.fancode.com/delhi/139932_english_hls_c98e20f20e79983_1ta-di_h264_backup/vod_82_index.m3u8
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774145113/3b260df3-68c1-4d68-a931-377805e0ff97/index.m3u8
