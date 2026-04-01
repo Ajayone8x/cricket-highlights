@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775023141/a4c0b46d-cd7f-4818-a881-a5bd6d4422e9_1775023118185/index.m3u8
-#EXTINF:-1,COMPLETEDNew Zealand WomenSouth Africa WomenSouth Africa Women's tour of New Zealand, 20262nd ODINew Zealand Women beat South Africa Women by 2 wicketsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775023141/a4c0b46d-cd7f-4818-a881-a5bd6d4422e9_1775023118185/index.m3u8
 #EXTINF:-1,TOP MOMENT00:30GOLLY! Ashmini Munisar takes a one-handed screamer
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774959991/fbf80d4d-68a9-429f-b941-930625cd9363/index.m3u8
 #EXTINF:-1,PREVIEW00:303-match ODI series: Australia Women's tour of West Indies 2026
