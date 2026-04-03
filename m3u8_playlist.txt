@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775170816/158e2b58-1630-4560-8327-2178e44fbc25/index.m3u8
-#EXTINF:-1,COMPLETEDWest Indies WomenAustralia WomenAustralia Women's tour of West Indies 20263rd ODIAustralia Women beat West Indies Women by 9 wicketsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775170816/158e2b58-1630-4560-8327-2178e44fbc25/index.m3u8
+#EXTINF:-1,TOP MOMENT00:27SINGLE-HANDED SCREAMER! Gardner dives to dismiss Claxton
+https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775203349/2b587bdd-bf19-4f20-bb7d-7cb9a9018ba5/index.m3u8
 #EXTINF:-1,TOP MOMENT00:28SWUNG & SNAPPED! Litchfield's reflex catch stuns Fletcher
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775190496/5c0d13f1-5166-4e9f-b86c-8cf1232bd6a3/index.m3u8
 #EXTINF:-1,TOP SPELLS02:06Alana King's 5 for 19 | 3rd ODI
@@ -21,5 +19,3 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774323681/48
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774321582/82379c20-ec50-4a80-bb2f-9bc5cd588624/index.m3u8
 #EXTINF:-1,TOP KNOCKS04:13Georgia Voll's 101 off 53 | 3rd T20I
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774320027/e722cbf0-e7ff-4ab3-931b-a6c0f952f2f9/index.m3u8
-#EXTINF:-1,TOP SPELLS00:57Hayley Matthews's 3 for 29 | 3rd T20I
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774320007/39b1c9fe-095f-4bba-b103-2826e9377293/index.m3u8
