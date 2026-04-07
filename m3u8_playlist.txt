@@ -6,13 +6,15 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775190496/5c
 #EXTINF:-1,TOP SPELLS02:06Alana King's 5 for 19 | 3rd ODI
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775170797/9719125f-a88d-4ca9-88b9-595411d5ea3f/index.m3u8
 #EXTINF:-1,TOP KNOCKS02:09Phoebe Litchfield's 68* off 56 | 3rd ODI
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775170781/52938108-200b-473d-930a-749bfe96ccd4/index.m3u8
+https://in-mc-vod.fancode.com/delhi/140478_english_hls_a4f0b982c235551_1ta-di_h264_backup/vod_595_index.m3u8
 #EXTINF:-1,TOP MOMENT00:30GOLLY! Ashmini Munisar takes a one-handed screamer
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774959991/fbf80d4d-68a9-429f-b941-930625cd9363/index.m3u8
 #EXTINF:-1,PREVIEW00:303-match ODI series: Australia Women's tour of West Indies 2026
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1774518329/WI-vs-AUS-WODIs-30s-16-9/index.m3u8
 #EXTINF:-1,TOP MOMENT00:33SUPERB! 22-year-old Voll brings up her maiden T20I ton
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774327892/13384abb-0722-4118-9038-2ea08d018b59/index.m3u8
+https://in-mc-vod.fancode.com/delhi/140478_english_hls_a4f0b982c235551_1ta-di_h264_backup/vod_595_index.m3u8
+#EXTINF:-1,TOP MOMENT00:36464! Molineuxâs boundary blitz turns the tide
+https://in-mc-vod.fancode.com/delhi/140478_english_hls_a4f0b982c235551_1ta-di_h264_backup/vod_595_index.m3u8
 #EXTINF:-1,HIGHLIGHTS14:22Australia Women beat West Indies Women by 40 runs on DLS | 3rd T20I
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774321582/82379c20-ec50-4a80-bb2f-9bc5cd588624/index.m3u8
 #EXTINF:-1,TOP KNOCKS04:13Georgia Voll's 101 off 53 | 3rd T20I
