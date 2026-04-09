@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775664290/f40fe2a9-46c4-4413-8e91-5fff5d03de71/index.m3u8
-#EXTINF:-1,COMPLETEDScotlandOmanICC CWC League 2, NamibiaMatch 95Oman beat Scotland by 12 runsHIGHLIGHTS
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775664290/f40fe2a9-46c4-4413-8e91-5fff5d03de71/index.m3u8
 #EXTINF:-1,TOP MOMENT00:27SINGLE-HANDED SCREAMER! Gardner dives to dismiss Claxton
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775203349/2b587bdd-bf19-4f20-bb7d-7cb9a9018ba5/index.m3u8
 #EXTINF:-1,TOP MOMENT00:28SWUNG & SNAPPED! Litchfield's reflex catch stuns Fletcher
@@ -15,8 +11,6 @@ https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1775170781/52
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774959991/fbf80d4d-68a9-429f-b941-930625cd9363/index.m3u8
 #EXTINF:-1,PREVIEW00:303-match ODI series: Australia Women's tour of West Indies 2026
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1774518329/WI-vs-AUS-WODIs-30s-16-9/index.m3u8
-#EXTINF:-1,TOP MOMENT00:33SUPERB! 22-year-old Voll brings up her maiden T20I ton
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774327892/13384abb-0722-4118-9038-2ea08d018b59/index.m3u8
 #EXTINF:-1,TOP MOMENT00:36464! Molineuxâs boundary blitz turns the tide
 https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media-rth/1774323681/48d09b9f-853c-4168-a2de-8b2745e58c51/index.m3u8
 #EXTINF:-1,HIGHLIGHTS14:22Australia Women beat West Indies Women by 40 runs on DLS | 3rd T20I
