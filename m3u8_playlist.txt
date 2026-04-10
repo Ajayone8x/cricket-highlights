@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,SPECIAL36:27360 with ABD: How RCB ended their 18-year title drought
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1775738266/360Show---S08E13---Draft-1/index.m3u8
+https://in-mc-vod.fancode.com/delhi/140481_english_hls_5a84fb54ed38680_1ta-di_h264_backup/vod_810_index.m3u8
 #EXTINF:-1,SPECIAL30:47ABD reviews Indian T20 League 2026 matches, and Ponting joins in
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1774964892/360-Show-S08E12---Ponting---Draft-2/index.m3u8
+https://in-mc-vod.fancode.com/delhi/140481_english_hls_5a84fb54ed38680_1ta-di_h264_backup/vod_810_index.m3u8
 #EXTINF:-1,SPECIAL35:28360 with ABD: Carabao Cup final, NZ vs SA, and Chahal joins in
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773834049/360-Show-S08E10---draft-2/index.m3u8
+https://in-mc-vod.fancode.com/delhi/140481_english_hls_5a84fb54ed38680_1ta-di_h264_backup/vod_810_index.m3u8
 #EXTINF:-1,SPECIAL28:52ABD reviews India's historic T20 WC campaign
-https://in-mc-vod.fancode.com/vision/skillup-uploads/cms-media/1773315852/360-SHow---S08E09---Draft-2/index.m3u8
+https://in-mc-vod.fancode.com/delhi/140481_english_hls_5a84fb54ed38680_1ta-di_h264_backup/vod_810_index.m3u8
